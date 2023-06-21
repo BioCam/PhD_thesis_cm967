@@ -1,0 +1,19 @@
+name,length,concentration (ng/ul),concentration (nM),available sample to dilute (ul),desired_concentration (nM),dilution_water (ul),sample utilized (ul),total volume (ul),nanodrop checkup (ng/ul),miniprep_positions,moladj_parts_positions,prep_date
+P_T7(BBF10K_003378)_15nM,2412,124.1,83.258,20,15.0,91.02,20,111.02,22.36,A1 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,A1 of 5 on Temperature Module GEN2 on 3,2023-06-04
+P_T7_lacO(BBF10K_003379)_15nM,2427,121.1,80.743,20,15.0,87.66,20,107.66,22.5,B1 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,B1 of 5 on Temperature Module GEN2 on 3,2023-06-04
+RBS_BT1_BCD2(BBF10K_003384),2413,138.6,92.947,20,15.0,103.92,20,123.92,22.37,C1 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,C1 of 5 on Temperature Module GEN2 on 3,2023-06-04
+RBS_BT1_BCD2_DsbA(BBF10K_003391)_15nM,2849,225.4,128.024,20,15.0,150.7,20,170.7,26.41,D1 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,D1 of 5 on Temperature Module GEN2 on 3,2023-06-04
+RBS_BT1_BCD2_OmpT(BBF10K_003392)_15nM,2441,112.8,74.777,20,15.0,79.7,20,99.7,22.63,A2 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,E1 of 5 on Temperature Module GEN2 on 3,2023-06-04
+RBS_BT1_BCD2_pelB(BBF10K_003393)_15nM,2426,147.1,98.119,20,15.0,110.82,20,130.82,22.49,B2 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,F1 of 5 on Temperature Module GEN2 on 3,2023-06-04
+Ntag1_R5(BBF10K_003399)_30nM,2420,154.6,103.377,20,30.0,48.92,20,68.92,44.86,C2 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,G1 of 5 on Temperature Module GEN2 on 3,2023-06-04
+Ntag2_TEVcut(BBF10K_003418)_30nM,2410,153.3,102.933,20,30.0,48.62,20,68.62,44.68,D2 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,H1 of 5 on Temperature Module GEN2 on 3,2023-06-04
+Ntag_His_TEVcut(BBF10K_003407_15nM,2427,137.2,91.477,20,15.0,101.96,20,121.96,22.5,A3 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,A2 of 5 on Temperature Module GEN2 on 3,2023-06-04
+CDS_Eco31I(BBF10K_003292)_15nM,3866,237.2,99.286,20,15.0,112.38,20,132.38,35.84,B3 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,B2 of 5 on Temperature Module GEN2 on 3,2023-06-04
+CDS_EcoRI(BBF10K_003281)_15nM,2957,198.4,108.573,20,15.0,124.76,20,144.76,27.41,C3 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,C2 of 5 on Temperature Module GEN2 on 3,2023-06-04
+CDS_NotI(BBF10K_003300)_15nM,3275,176.9,87.407,20,15.0,96.54,20,116.54,30.36,D3 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,D2 of 5 on Temperature Module GEN2 on 3,2023-06-04
+CDS_PstI(BBF10K_003283)_15nM,3104,205.4,107.08,20,15.0,122.78,20,142.78,28.77,A4 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,E2 of 5 on Temperature Module GEN2 on 3,2023-06-04
+CDS_SapI(BBF10K_003295)_15nM,3422,169.2,80.012,20,15.0,86.68,20,106.68,31.72,B4 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,F2 of 5 on Temperature Module GEN2 on 3,2023-06-04
+CDS_XbaI(BBF10K_003298)_15nM,2753,129.1,75.884,20,15.0,81.18,20,101.18,25.52,C4 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,G2 of 5 on Temperature Module GEN2 on 3,2023-06-04
+T_TZ(BBF10K_003477)_15nM,2426,179.9,119.997,20,15.0,140.0,20,160.0,22.49,D4 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,H2 of 5 on Temperature Module GEN2 on 3,2023-06-04
+DV_pTi_7.5nM,5215,128.1,39.749,15,7.5,64.5,15,79.5,24.17,A5 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,A3 of 5 on Temperature Module GEN2 on 3,2023-06-04
+DV_pTi_5nM,5215,128.1,39.749,15,5.0,104.25,15,119.25,16.11,B5 of Opentrons 24 Tube Rack with Eppendorf 1.5 mL Safe-Lock Snapcap on 1,B3 of 5 on Temperature Module GEN2 on 3,2023-06-04

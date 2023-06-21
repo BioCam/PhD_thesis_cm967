@@ -1,0 +1,8 @@
+design type:factorial,GG standard:uLoop,assembly level:LVL1,LHS:Opentrons_OT2,date:10.05.2023,
+Module A | Part 1: Promoter,Module A | Part 2: RBS,Module A | Part 3 & 4: Tag1and2,Module A | Part 5: CDS,Module A | Part 6: Terminator,Module A | Part 7: LVL1 Destination Vector
+P_T7(BBF10K_003378)_15nM,RBS_BT1_BCD2(BBF10K_003384)_15nM,Ntag1_R5(BBF10K_003399)_15nM-Ntag2_TEVcut(BBF10K_003418)_15nM,CDS_Eco31I(BBF10K_003292)_15nM,T_TZ(BBF10K_003477)_15nM,DV_pTi_5nM
+P_T7_lacO(BBF10K_003379)_15nM,RBS_BT1_BCD2_DsbA(BBF10K_003391)_15nM,Ntag_His_TEVcut(BBF10K_003407_15nM,CDS_EcoRI(BBF10K_003281)_15nM,,
+,RBS_BT1_BCD2_OmpT(BBF10K_003392)_15nM,,CDS_NotI(BBF10K_003300)_15nM,,
+,RBS_BT1_BCD2_pelB(BBF10K_003393)_15nM,,CDS_PstI(BBF10K_003283)_15nM,,
+,,,CDS_SapI(BBF10K_003295)_15nM,,
+,,,CDS_XbaI(BBF10K_003298)_15nM,,
